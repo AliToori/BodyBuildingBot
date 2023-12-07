@@ -1,4 +1,4 @@
-# BodyBuildingBot: bodybuilding.com Suppliment Scraping Bot
+# BodyBuildingBot: bodybuilding.com Supplement Scraping Bot
 
 *******************************************************************************************
 
